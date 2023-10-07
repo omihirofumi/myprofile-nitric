@@ -1,0 +1,4 @@
+name: my-profile
+handlers:
+- functions/*/*.go
+preview-features: []
